@@ -927,6 +927,22 @@ const emojiItems = [
     itemLink: "https://www.imdb.com/title/tt0413573/"
   },
   {
+    title: "Guardians of the Galaxy",
+    emojiImgs: "📼⚔️🌌💎🥊",
+    genres: ["action", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt2015381/",
+    type: "movie",
+    year: 2014
+  },
+  {
+    title: "Guardians of the Galaxy Vol. 2",
+    emojiImgs: "🌱➡️💣🧠🌎",
+    genres: ["action", "adventure", "comedy"],
+    itemLink: "https://www.imdb.com/title/tt3896198/",
+    type: "movie",
+    year: 2017
+  },
+  {
     title: "The Girl with the Dragon Tattoo",
     emojiImgs: "👧💉🐉",
     itemLink: "https://www.imdb.com/title/tt0000000001132620/",
